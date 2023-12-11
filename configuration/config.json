@@ -1,3 +1,10 @@
 {
-  "active": true
+  "applicationName": "LapLegacy Pro",
+  "version": "1.0.2",
+  "versionType": "release",
+  "publisher": "Kyle Pereira",
+  "releaseDate": "2023-12-11",
+  "licenced": true,
+  "licenceId": "ABCDE12345",
+  "latestRelease": "https://github.com/kyleprr/Lap-Legacy-Pro/update"
 }
