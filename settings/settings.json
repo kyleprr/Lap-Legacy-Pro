@@ -1,5 +1,10 @@
 {
-  "appBarTitle": "Title",
-  "appBarTextColour": "0xFFFF8000",
-  "appBarColour": "0xFF1F1F1F"
+  "pages": [
+    {
+      "page": "Home",
+      "appBarTitle": "Lap Legacy Pro",
+      "appBarTextColour": "0xFFFF8000",
+      "appBarColour": "0xFF1F1F1F"
+    }
+  ]
 }
